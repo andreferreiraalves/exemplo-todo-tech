@@ -4,9 +4,7 @@ function click_botao() {
 const campo2 = document.getElementById("campo2")
 const botao2 = document.getElementById('botao2')
 
-
 botao2.addEventListener('click', click_botao)
-
 
 document.getElementById('todo-form').addEventListener('submit', function(event) {
     event.preventDefault();

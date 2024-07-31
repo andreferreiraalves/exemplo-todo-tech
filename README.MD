@@ -73,3 +73,10 @@ console.log('console log');
 3. Alterar o js para qe adicione uma palavra antes de adicionar a tarefa (TAREFA: texto tarefa 1)
 
 ---
+
+## Exercício
+
+1. 
+2. 
+
+---
