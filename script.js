@@ -1,7 +1,20 @@
+function click_botao() {
+}
+
+const campo2 = document.getElementById("campo2")
+const botao2 = document.getElementById('botao2')
+
+
+botao2.addEventListener('click', click_botao)
+
+
 document.getElementById('todo-form').addEventListener('submit', function(event) {
     event.preventDefault();
+
     const todoInput = document.getElementById('todo-input');
-    const todoText = todoInput.value.trim();
+
+    var todoText = todoInput.value.trim();
+    todoText = 'todo ' + todoText + '.'
 
     if (todoText !== "") {
         const todoList = document.getElementById('todo-list');

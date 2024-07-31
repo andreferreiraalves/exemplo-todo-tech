@@ -70,6 +70,6 @@ console.log('console log');
 
 1. Alterar as cores do site;
 2. Colocar uma tag html no final com informações das redes sociais;
-3. Alterar o js para que adicione uma palavra antes de adicionar a tarefa (TAREFA: texto tarefa 1)
+3. Alterar o js para qe adicione uma palavra antes de adicionar a tarefa (TAREFA: texto tarefa 1)
 
 ---
